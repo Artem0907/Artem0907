@@ -4,4 +4,4 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий :snake:Python разработчик.
+Я начинающий Python:snake: разработчик.
