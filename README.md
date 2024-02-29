@@ -21,4 +21,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Artem0907.Artem0907)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Artem0907)
