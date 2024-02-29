@@ -4,4 +4,4 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px"> разработчик.
+Я начинающий Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20px"> разработчик.
