@@ -7,7 +7,6 @@
 Я начинающий Python разработчик.
 
 ---
-${your.username}.${your.repo.id}
 
 ### ⚙️ GitHub статистика:
 
@@ -22,4 +21,4 @@ ${your.username}.${your.repo.id}
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Artem0907.Artem0907)
