@@ -7,6 +7,7 @@
 Я начинающий Python разработчик.
 
 ---
+${your.username}.${your.repo.id}
 
 ### ⚙️ GitHub статистика:
 
